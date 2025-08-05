@@ -1,6 +1,3 @@
-# ghp_e4xnQUe0W323xOI2????????skejSnzxZYbsei4DmePv
-
-# git remote set-url origin https://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@github.com/myvercels/fapi01/ 
 
 from fastapi import FastAPI, Response
 app = FastAPI()
